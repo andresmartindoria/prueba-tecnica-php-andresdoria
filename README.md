@@ -35,13 +35,13 @@ Para asegurarte de que todo funciona correctamente, ejecuta las pruebas unitaria
 Esto ejecutará todas las pruebas y te mostrará los resultados en la terminal.
 
 ### Estructura del Proyecto
-src/: Contiene el código fuente del proyecto.
-Entity/: Contiene la clase User que representa la entidad de usuario.
-Repository/: Contiene la implementación del repositorio UserRepository.
-UseCase/: Contiene el caso de uso CreateUserUseCase para crear usuarios.
-DTO/: Contiene el Data Transfer Object UserRequestDTO.
-tests/: Contiene las pruebas unitarias e integrales del proyecto.
-Unit/: Pruebas unitarias para las entidades y casos de uso.
+src/: Contiene el código fuente del proyecto.  
+Entity/: Contiene la clase User que representa la entidad de usuario.  
+Repository/: Contiene la implementación del repositorio UserRepository.  
+UseCase/: Contiene el caso de uso CreateUserUseCase para crear usuarios.  
+DTO/: Contiene el Data Transfer Object UserRequestDTO.  
+tests/: Contiene las pruebas unitarias e integrales del proyecto.  
+Unit/: Pruebas unitarias para las entidades y casos de uso.  
 Integration/: Pruebas integrales para verificar la integración del sistema.
 
 ### Uso del Proyecto
